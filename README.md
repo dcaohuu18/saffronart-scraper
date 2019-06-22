@@ -5,7 +5,7 @@ A bot that scrapes data from https://www.saffronart.com/
 To start the bot, use this command: python scrapeAllArtists.py 
 
 ## Requirements:
-* BeautifulSoup4 and lxml
+* Beautiful Soup and lxml
 * Selenium
 * Requests
 
