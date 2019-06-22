@@ -1,2 +1,2 @@
 # saffronart-scraper
-A bot that scrapes data from saffronart.com 
+A bot that scrapes data from https://www.saffronart.com/  
