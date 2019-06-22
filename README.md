@@ -3,7 +3,7 @@ A bot that scrapes data from https://www.saffronart.com/
 
 ## Running:
 1. Download the source code to your directory
-2. From the directory, run ```python scrapeAllArtists.py``` 
+2. ```cd``` to the directory, run ```python scrapeAllArtists.py``` 
 
 ## Requirements:
 * Selenium
