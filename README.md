@@ -1,12 +1,13 @@
-# saffronart-scraper
+# Saffronart Scraper
 A bot that scrapes data from https://www.saffronart.com/  
 
 ## Running:
-To start the bot, use this command: python scrapeAllArtists.py 
+1. Clone the source code to your directory
+2. From the directory, run ```python scrapeAllArtists.py``` 
 
 ## Requirements:
-* Beautiful Soup and lxml
 * Selenium
+* Beautiful Soup and lxml
 * Requests
 
 ## Note:
